@@ -1,102 +1,152 @@
 [
   {
-    "keywords": ["election", "vote", "politics", "government"],
+    "keywords": ["election", "vote", "politics", "government", "ballot", "campaign", "candidates", "democracy", "voting day", "political parties", "polls"],
     "suggestions": [
       "Latest election results and updates",
       "Analysis of political debates",
       "Upcoming voting schedules",
       "Top candidates to watch",
-      "Public opinion on major policies"
+      "Public opinion on major policies",
+      "How to register to vote",
+      "Impact of recent laws on elections",
+      "Behind the scenes of campaign strategies",
+      "Debunking political misinformation",
+      "Live coverage of political events"
     ]
   },
   {
-    "keywords": ["sports", "football", "soccer", "basketball", "tennis", "baseball"],
+    "keywords": ["sports", "football", "soccer", "basketball", "tennis", "baseball", "NBA", "NFL", "FIFA", "athletes", "games", "matches", "playoffs", "sports news"],
     "suggestions": [
       "Daily sports news roundup",
       "Upcoming match schedules",
       "Top player performance stats",
       "Transfer and trade news",
-      "Post-match interviews"
+      "Post-match interviews",
+      "Highlights from recent games",
+      "Fantasy sports predictions",
+      "Injury reports and recovery updates",
+      "Rising stars to watch",
+      "Behind-the-scenes with your favorite teams"
     ]
   },
   {
-    "keywords": ["technology", "tech", "AI", "software", "hardware", "gadgets"],
+    "keywords": ["technology", "tech", "AI", "software", "hardware", "gadgets", "apps", "machine learning", "innovation", "cybersecurity", "IT", "smart devices"],
     "suggestions": [
       "Latest trends in artificial intelligence",
       "Top gadget releases this month",
       "Software tools for productivity",
       "Innovations in consumer tech",
-      "Tech startup spotlights"
+      "Tech startup spotlights",
+      "How AI is changing the workplace",
+      "Must-have apps in 2025",
+      "Cybersecurity threats to watch",
+      "Eco-friendly tech solutions",
+      "Comparing the best smartphones today"
     ]
   },
   {
-    "keywords": ["music", "song", "artist", "concert", "album", "band"],
+    "keywords": ["music", "song", "artist", "concert", "album", "band", "playlist", "music video", "genre", "musician", "hits", "live show", "EP", "record label"],
     "suggestions": [
       "Top songs trending this week",
       "Concerts happening near you",
       "Artist interviews and stories",
       "New album releases",
-      "Behind the scenes of hit songs"
+      "Behind the scenes of hit songs",
+      "Genre spotlights and new sounds",
+      "Indie vs mainstream: who's breaking through",
+      "Must-listen playlists curated by experts",
+      "Best music videos right now",
+      "Upcoming music festivals"
     ]
   },
   {
-    "keywords": ["movies", "films", "cinema", "series", "streaming", "tv shows"],
+    "keywords": ["movies", "films", "cinema", "series", "streaming", "tv shows", "Netflix", "blockbusters", "trailers", "Hollywood", "actors", "box office", "dramas", "comedies"],
     "suggestions": [
       "Top-rated movies this month",
       "New releases on streaming platforms",
       "Actor interviews and profiles",
       "TV series to binge-watch",
-      "Film reviews and ratings"
+      "Film reviews and ratings",
+      "Behind the scenes of major productions",
+      "Hidden gems on streaming services",
+      "Fan theories and plot twists",
+      "Movie night suggestions",
+      "Award season predictions"
     ]
   },
   {
-    "keywords": ["travel", "vacation", "tourism", "flight", "hotel", "trip"],
+    "keywords": ["travel", "vacation", "tourism", "flight", "hotel", "trip", "getaway", "tour", "destinations", "road trip", "backpacking", "itinerary", "budget travel"],
     "suggestions": [
       "Best destinations for your next trip",
       "Budget-friendly travel tips",
       "Popular tourist attractions",
       "Travel safety and planning advice",
-      "Hotel and flight deal alerts"
+      "Hotel and flight deal alerts",
+      "Hidden travel gems and underrated spots",
+      "Solo travel advice",
+      "Packing checklists for different trips",
+      "Local cuisine to try abroad",
+      "How to travel more sustainably"
     ]
   },
   {
-    "keywords": ["health", "fitness", "exercise", "diet", "mental", "wellness"],
+    "keywords": ["health", "fitness", "exercise", "diet", "mental", "wellness", "nutrition", "yoga", "workout", "self-care", "gym", "mindfulness", "healthy lifestyle"],
     "suggestions": [
       "Simple home workout routines",
       "Healthy eating habits to follow",
       "Mental health and stress tips",
       "Fitness trends for 2025",
-      "Daily wellness practices"
+      "Daily wellness practices",
+      "Top superfoods to try",
+      "Meditation techniques for beginners",
+      "How to build a consistent routine",
+      "Benefits of strength training",
+      "Dealing with burnout and fatigue"
     ]
   },
   {
-    "keywords": ["finance", "money", "investment", "stocks", "crypto", "economy"],
+    "keywords": ["finance", "money", "investment", "stocks", "crypto", "economy", "budget", "banking", "savings", "trading", "debt", "financial planning"],
     "suggestions": [
       "How to start investing in crypto",
       "Top stock market trends this week",
       "Tips for managing personal finances",
       "Global economy insights",
-      "Common money-saving mistakes"
+      "Common money-saving mistakes",
+      "Beginner’s guide to budgeting",
+      "How inflation affects your wallet",
+      "Crypto vs traditional investments",
+      "Best personal finance apps",
+      "Retirement planning for young adults"
     ]
   },
   {
-    "keywords": ["education", "learning", "school", "university", "online course", "study"],
+    "keywords": ["education", "learning", "school", "university", "online course", "study", "college", "e-learning", "MOOC", "homework", "academic", "student life"],
     "suggestions": [
       "Best platforms for online learning",
       "Study tips for exams",
       "Popular university programs",
       "Free educational resources",
-      "How to stay motivated while studying"
+      "How to stay motivated while studying",
+      "Career advice for students",
+      "Balancing school and personal life",
+      "Productivity tools for learners",
+      "Scholarship and financial aid tips",
+      "Trends in remote learning"
     ]
   },
   {
-    "keywords": ["gaming", "videogames", "xbox", "ps5", "nintendo", "pc games"],
+    "keywords": ["gaming", "videogames", "xbox", "ps5", "nintendo", "pc games", "esports", "streamers", "Twitch", "multiplayer", "console", "RPG", "FPS", "gameplay"],
     "suggestions": [
       "Top upcoming games to watch",
       "Game reviews and ratings",
       "Streaming highlights from top gamers",
       "Tips and tricks for online play",
-      "Gaming gear recommendations"
+      "Gaming gear recommendations",
+      "Esports tournament updates",
+      "Best games for co-op fun",
+      "Retro games making a comeback",
+      "Game development insights",
+      "Gaming memes and trends"
     ]
   }
 ]
