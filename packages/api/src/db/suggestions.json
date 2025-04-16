@@ -1,0 +1,102 @@
+[
+  {
+    "keywords": ["election", "vote", "politics", "government"],
+    "suggestions": [
+      "Latest election results and updates",
+      "Analysis of political debates",
+      "Upcoming voting schedules",
+      "Top candidates to watch",
+      "Public opinion on major policies"
+    ]
+  },
+  {
+    "keywords": ["sports", "football", "soccer", "basketball", "tennis", "baseball"],
+    "suggestions": [
+      "Daily sports news roundup",
+      "Upcoming match schedules",
+      "Top player performance stats",
+      "Transfer and trade news",
+      "Post-match interviews"
+    ]
+  },
+  {
+    "keywords": ["technology", "tech", "AI", "software", "hardware", "gadgets"],
+    "suggestions": [
+      "Latest trends in artificial intelligence",
+      "Top gadget releases this month",
+      "Software tools for productivity",
+      "Innovations in consumer tech",
+      "Tech startup spotlights"
+    ]
+  },
+  {
+    "keywords": ["music", "song", "artist", "concert", "album", "band"],
+    "suggestions": [
+      "Top songs trending this week",
+      "Concerts happening near you",
+      "Artist interviews and stories",
+      "New album releases",
+      "Behind the scenes of hit songs"
+    ]
+  },
+  {
+    "keywords": ["movies", "films", "cinema", "series", "streaming", "tv shows"],
+    "suggestions": [
+      "Top-rated movies this month",
+      "New releases on streaming platforms",
+      "Actor interviews and profiles",
+      "TV series to binge-watch",
+      "Film reviews and ratings"
+    ]
+  },
+  {
+    "keywords": ["travel", "vacation", "tourism", "flight", "hotel", "trip"],
+    "suggestions": [
+      "Best destinations for your next trip",
+      "Budget-friendly travel tips",
+      "Popular tourist attractions",
+      "Travel safety and planning advice",
+      "Hotel and flight deal alerts"
+    ]
+  },
+  {
+    "keywords": ["health", "fitness", "exercise", "diet", "mental", "wellness"],
+    "suggestions": [
+      "Simple home workout routines",
+      "Healthy eating habits to follow",
+      "Mental health and stress tips",
+      "Fitness trends for 2025",
+      "Daily wellness practices"
+    ]
+  },
+  {
+    "keywords": ["finance", "money", "investment", "stocks", "crypto", "economy"],
+    "suggestions": [
+      "How to start investing in crypto",
+      "Top stock market trends this week",
+      "Tips for managing personal finances",
+      "Global economy insights",
+      "Common money-saving mistakes"
+    ]
+  },
+  {
+    "keywords": ["education", "learning", "school", "university", "online course", "study"],
+    "suggestions": [
+      "Best platforms for online learning",
+      "Study tips for exams",
+      "Popular university programs",
+      "Free educational resources",
+      "How to stay motivated while studying"
+    ]
+  },
+  {
+    "keywords": ["gaming", "videogames", "xbox", "ps5", "nintendo", "pc games"],
+    "suggestions": [
+      "Top upcoming games to watch",
+      "Game reviews and ratings",
+      "Streaming highlights from top gamers",
+      "Tips and tricks for online play",
+      "Gaming gear recommendations"
+    ]
+  }
+]
