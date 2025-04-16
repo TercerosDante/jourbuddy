@@ -1,4 +1,10 @@
 {
   "name": "@jourbuddy/api",
-  "packageManager": "yarn@4.9.1"
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.1"
+  }
 }

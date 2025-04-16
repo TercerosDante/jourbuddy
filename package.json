@@ -1,8 +1,12 @@
 {
   "name": "jourbuddy",
-  "packageManager": "yarn@4.9.1",
   "private": true,
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
 }
