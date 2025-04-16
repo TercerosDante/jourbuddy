@@ -1,8 +1,13 @@
 import app from './app';
 import express from 'express';
+import cors from 'cors';
 import suggestionRoutes from './routes/suggestions.routes';
 import { errorHandler } from './common/middleware/error.middleware';
 const PORT = 3000;
+
+app.use(cors({
+  origin: '*',
+}));
 
 app.use(express.json());
 
