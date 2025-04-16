@@ -1,4 +1,4 @@
 {
-  "name": "shared",
+  "name": "@jourbuddy/shared",
   "packageManager": "yarn@4.9.1"
 }

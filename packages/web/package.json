@@ -1,4 +1,4 @@
 {
-  "name": "web",
+  "name": "@jourbuddy/web",
   "packageManager": "yarn@4.9.1"
 }
