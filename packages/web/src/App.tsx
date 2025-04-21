@@ -1,10 +1,10 @@
 import { useState } from 'react';
 import { SuggestionForm } from './components/SuggestionForm';
 import { SuggestionList } from './components/SuggestionList';
-import { getSuggestions, Suggestion } from './services/api';
+import { getSuggestions } from './services/api';
 
 export default function App() {
-  const [suggestions, setSuggestions] = useState<Suggestion[]>([]);
+  const [suggestions, setSuggestions] = useState<string[]>([]);
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
